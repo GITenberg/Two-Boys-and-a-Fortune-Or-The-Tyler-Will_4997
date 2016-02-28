@@ -1,0 +1,25 @@
+_repo: Two-Boys-and-a-Fortune-Or-The-Tyler-Will_4997
+creator:
+  author:
+    agent_name: White, Matthew
+    birthdate: 1857
+    deathdate: 1940
+    gutenberg_agent_id: '1628'
+    url: http://www.gutenberg.org/2009/agents/1628
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Wills -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Rescues -- Juvenile fiction'
+title: Two Boys and a Fortune; Or, The Tyler Will
+url: http://www.gutenberg.org/ebooks/4997
